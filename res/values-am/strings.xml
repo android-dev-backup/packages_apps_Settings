@@ -3586,6 +3586,9 @@
     <string name="notification_channel_summary_low" msgid="5549662596677692000">"ምንም ድምጽ ወይም ንዝረት የለም"</string>
     <string name="notification_conversation_summary_low" msgid="6352818857388412326">"ምንም ድምጽ ወይም ንዝረት የለም እና በውይይት ክፍል ላይ አይታይም"</string>
     <string name="notification_channel_summary_default" msgid="3674057458265438896">"በእርስዎ የስልክ ቅንብሮች የሚወሰን ሆኖ ሊደውል ወይም ሊነዝር ይችላል"</string>
+    <string name="notification_channel_summary_low_status" msgid="7866565328564018007">"ከዚህ በታች ቅድሚያ የሚሰጣቸው ማሳወቂያዎችን ያሳያል። ሁልጊዜ ጸጥ ያለ።"</string>
+    <string name="notification_channel_summary_low_lock" msgid="4009247523075328235">"ከዚህ በታች ቅድሚያ የሚሰጣቸው ማሳወቂያዎችን ያሳያል። ሁልጊዜ ጸጥ ያለ።"</string>
+    <string name="notification_channel_summary_low_status_lock" msgid="3668028634045057230">"ከዚህ በታች ቅድሚያ የሚሰጣቸው ማሳወቂያዎችን ያሳያል። ሁልጊዜ ጸጥ ያለ።"</string>
     <string name="notification_channel_summary_high" msgid="3411637309360617621">"መሣሪያ ሲከፈት፣ ማሳወቂያዎችን እንደ ሰንደቅ በማያ ገጹ አናት ላይ እንዳለ አሳይ"</string>
     <string name="notification_switch_label" msgid="8029371325967501557">"ሁሉም «<xliff:g id="APP_NAME">%1$s</xliff:g>» ማሳወቂያዎች"</string>
     <string name="notification_app_switch_label" msgid="4422902423925084193">"ሁሉም የ<xliff:g id="APP_NAME">%1$s</xliff:g> ማሳወቂያዎች"</string>
@@ -4957,4 +4960,8 @@
     <string name="media_controls_no_players" msgid="3493023121892175946">"ምንም ተጫዋቾች አይገኙም"</string>
     <string name="keywords_media_controls" msgid="8345490568291778638">"ሚዲያ"</string>
     <string name="connected_device_see_all_summary" msgid="2056010318537268108">"ብሉቱዝ ይበራል"</string>
+    <string name="gesture_skip_title" msgid="2092825906479683162">"የጣት ምልክትን ይዝለሉ"</string>
+    <string name="gesture_silence_title" msgid="8991427657123202574">"ጸጥታ የጣት ምልክትን ያነቃል"</string>
+    <string name="qtifeedback_settings_title"> ስለ ሃርድዌር ግብረ-መልስ</string>
+    <string name="qtifeedback_settings_subtitle">Qualcomm Technologies, Inc ሪፖርት</string>
 </resources>

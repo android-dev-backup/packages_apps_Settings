@@ -3682,6 +3682,9 @@
     <string name="notification_channel_summary_low" msgid="5549662596677692000">"Brez zvočnega opozarjanja ali vibriranja"</string>
     <string name="notification_conversation_summary_low" msgid="6352818857388412326">"Brez zvočnega opozarjanja ali vibriranja, prikaz nižje v razdelku s pogovorom"</string>
     <string name="notification_channel_summary_default" msgid="3674057458265438896">"Zvonjenje ali vibriranje je omogočeno na podlagi nastavitev telefona"</string>
+    <string name="notification_channel_summary_low_status" msgid="7866565328564018007">"Prikaz pod prednostnimi obvestili. Vedno tiho."</string>
+    <string name="notification_channel_summary_low_lock" msgid="4009247523075328235">"Prikaz pod prednostnimi obvestili. Vedno tiho."</string>
+    <string name="notification_channel_summary_low_status_lock" msgid="3668028634045057230">"Prikaz pod prednostnimi obvestili. Vedno tiho."</string>
     <string name="notification_channel_summary_high" msgid="3411637309360617621">"Ko je naprava odklenjena, so obvestila prikazana kot pasica na vrhu zaslona"</string>
     <string name="notification_switch_label" msgid="8029371325967501557">"Vsa obvestila aplikacije »<xliff:g id="APP_NAME">%1$s</xliff:g>«"</string>
     <string name="notification_app_switch_label" msgid="4422902423925084193">"Vsa obvestila aplikacije <xliff:g id="APP_NAME">%1$s</xliff:g>"</string>
@@ -5139,4 +5142,6 @@
     <string name="media_controls_no_players" msgid="3493023121892175946">"Na voljo ni noben predvajalnik"</string>
     <string name="keywords_media_controls" msgid="8345490568291778638">"predstavnost"</string>
     <string name="connected_device_see_all_summary" msgid="2056010318537268108">"Bluetooth se bo vklopil"</string>
+    <string name="qtifeedback_settings_title">Povratne informacije o strojni opremi</string>
+    <string name="qtifeedback_settings_subtitle">Qualcomm Technologies, Inc Poročilo</string>
 </resources>

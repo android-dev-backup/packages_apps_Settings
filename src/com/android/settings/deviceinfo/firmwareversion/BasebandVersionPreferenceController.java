@@ -30,9 +30,11 @@ public class BasebandVersionPreferenceController extends BasePreferenceControlle
 
     @VisibleForTesting
     static final String BASEBAND_PROPERTY = "gsm.version.baseband";
+    private final Context mContext;
 
     public BasebandVersionPreferenceController(Context context, String preferenceKey) {
         super(context, preferenceKey);
+        mContext = context;
     }
 
     @Override

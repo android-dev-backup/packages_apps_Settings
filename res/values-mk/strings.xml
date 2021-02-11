@@ -3587,6 +3587,9 @@
     <string name="notification_conversation_summary_low" msgid="6352818857388412326">"Без звук или вибрации и се појавува под делот со разговори"</string>
     <string name="notification_channel_summary_default" msgid="3674057458265438896">"Може да ѕвони или вибрира во зависност од поставките на телефонот"</string>
     <string name="notification_channel_summary_high" msgid="3411637309360617621">"Кога уредот е отклучен, прикажувај ги известувањата како рекламен натпис на горниот дел од екранот"</string>
+    <string name="notification_channel_summary_low_status" msgid="7866565328564018007">"Се прикажува под приоритетните известувања. Секогаш безгласно."</string>
+    <string name="notification_channel_summary_low_lock" msgid="4009247523075328235">"Се прикажува под приоритетните известувања. Секогаш безгласно."</string>
+    <string name="notification_channel_summary_low_status_lock" msgid="3668028634045057230">"Се прикажува под приоритетните известувања. Секогаш безгласно."</string>
     <string name="notification_switch_label" msgid="8029371325967501557">"Сите известувања на „<xliff:g id="APP_NAME">%1$s</xliff:g>“"</string>
     <string name="notification_app_switch_label" msgid="4422902423925084193">"Сите известувања за <xliff:g id="APP_NAME">%1$s</xliff:g>"</string>
     <string name="default_notification_assistant" msgid="243718059890346442">"Приспособливи известувања"</string>
@@ -4957,4 +4960,8 @@
     <string name="media_controls_no_players" msgid="3493023121892175946">"Нема достапни плеери"</string>
     <string name="keywords_media_controls" msgid="8345490568291778638">"аудиовизуелни содржини"</string>
     <string name="connected_device_see_all_summary" msgid="2056010318537268108">"Bluetooth ќе се вклучи"</string>
+    <string name="gesture_skip_title" msgid="2092825906479683162">"Прескокни го движењето"</string>
+    <string name="gesture_silence_title" msgid="8991427657123202574">"Движење за стишување предупредувања"</string>
+    <string name="qtifeedback_settings_title">Повратни информации за хардверот</string>
+    <string name="qtifeedback_settings_subtitle">Праќање извештаи на компанијата Qualcomm Technologies, Inc</string>
 </resources>

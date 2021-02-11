@@ -3586,6 +3586,9 @@
     <string name="notification_channel_summary_low" msgid="5549662596677692000">"Không phát âm thanh hoặc rung"</string>
     <string name="notification_conversation_summary_low" msgid="6352818857388412326">"Không phát âm thanh hoặc rung và xuất hiện phía dưới trong phần cuộc trò chuyện"</string>
     <string name="notification_channel_summary_default" msgid="3674057458265438896">"Có thể đổ chuông hoặc rung tùy theo chế độ cài đặt trên điện thoại"</string>
+    <string name="notification_channel_summary_low_status" msgid="7866565328564018007">"Hiển thị bên dưới thông báo mức độ ưu tiên. Luôn im lặng."</string>
+    <string name="notification_channel_summary_low_lock" msgid="4009247523075328235">"Hiển thị bên dưới thông báo mức độ ưu tiên. Luôn im lặng."</string>
+    <string name="notification_channel_summary_low_status_lock" msgid="3668028634045057230">"Hiển thị bên dưới thông báo mức độ ưu tiên. Luôn im lặng."</string>
     <string name="notification_channel_summary_high" msgid="3411637309360617621">"Hiển thị thông báo ở đầu màn hình khi thiết bị đang mở khóa"</string>
     <string name="notification_switch_label" msgid="8029371325967501557">"Tất cả các thông báo của ứng dụng \"<xliff:g id="APP_NAME">%1$s</xliff:g>\""</string>
     <string name="notification_app_switch_label" msgid="4422902423925084193">"Tất cả thông báo của <xliff:g id="APP_NAME">%1$s</xliff:g>"</string>
@@ -4957,4 +4960,6 @@
     <string name="media_controls_no_players" msgid="3493023121892175946">"Không có trình phát nào"</string>
     <string name="keywords_media_controls" msgid="8345490568291778638">"nội dung nghe nhìn"</string>
     <string name="connected_device_see_all_summary" msgid="2056010318537268108">"Bluetooth sẽ bật"</string>
+    <string name="qtifeedback_settings_title"> Phản hồi về phần cứng</string>
+    <string name="qtifeedback_settings_subtitle">Qualcomm Technologies, Inc Báo cáo</string>
 </resources>

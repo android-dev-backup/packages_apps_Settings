@@ -53,6 +53,8 @@ import com.android.settings.network.SubscriptionUtil;
 import com.android.settings.network.telephony.MobileNetworkActivity;
 import com.android.settingslib.HelpUtils;
 
+import org.codeaurora.internal.IExtTelephony;
+
 public class SimSelectNotification extends BroadcastReceiver {
     private static final String TAG = "SimSelectNotification";
     @VisibleForTesting

@@ -3586,6 +3586,9 @@
     <string name="notification_channel_summary_low" msgid="5549662596677692000">"不震動或發出聲音"</string>
     <string name="notification_conversation_summary_low" msgid="6352818857388412326">"不震動或發出聲音，並顯示在對話部分的下方"</string>
     <string name="notification_channel_summary_default" msgid="3674057458265438896">"根據手機的設定響鈴或震動"</string>
+    <string name="notification_channel_summary_low_status" msgid="7866565328564018007">"顯示在優先通知下方，且一律不發出音效。"</string>
+    <string name="notification_channel_summary_low_lock" msgid="4009247523075328235">"顯示在優先通知下方，且一律不發出音效。"</string>
+    <string name="notification_channel_summary_low_status_lock" msgid="3668028634045057230">"顯示在優先通知下方，且一律不發出音效。"</string>
     <string name="notification_channel_summary_high" msgid="3411637309360617621">"裝置處於解鎖狀態時，在螢幕頂端以橫幅形式顯示通知"</string>
     <string name="notification_switch_label" msgid="8029371325967501557">"所有「<xliff:g id="APP_NAME">%1$s</xliff:g>」通知"</string>
     <string name="notification_app_switch_label" msgid="4422902423925084193">"「<xliff:g id="APP_NAME">%1$s</xliff:g>」的所有通知"</string>
@@ -4957,4 +4960,6 @@
     <string name="media_controls_no_players" msgid="3493023121892175946">"沒有可用的播放器"</string>
     <string name="keywords_media_controls" msgid="8345490568291778638">"媒體"</string>
     <string name="connected_device_see_all_summary" msgid="2056010318537268108">"系統將開啟藍牙"</string>
+    <string name="qtifeedback_settings_title">硬體使用情況回報</string>
+    <string name="qtifeedback_settings_subtitle"> Qualcomm Technologies, Inc 報告</string>
 </resources>

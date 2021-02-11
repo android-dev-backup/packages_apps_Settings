@@ -3587,6 +3587,9 @@
     <string name="notification_conversation_summary_low" msgid="6352818857388412326">"គ្មានសំឡេង ឬការញ័រ និងការបង្ហាញ​កម្រិតទាបជាង​នេះនៅក្នុង​ផ្នែកសន្ទនាទេ"</string>
     <string name="notification_channel_summary_default" msgid="3674057458265438896">"អាចរោទ៍ ឬញ័រ ដោយផ្អែកលើ​ការកំណត់​ទូរសព្ទ"</string>
     <string name="notification_channel_summary_high" msgid="3411637309360617621">"បង្ហាញការ​ជូនដំណឹងជា​ផ្ទាំងនៅផ្នែក​ខាងលើ​អេក្រង់ នៅពេល​ឧបករណ៍មិនជាប់សោ"</string>
+    <string name="notification_channel_summary_low_status" msgid="7866565328564018007">"បង្ហាញ​ខាងក្រោម​ការជូនដំណឹង​អាទិភាព។ បិទសំឡេង​ជានិច្ច។"</string>
+    <string name="notification_channel_summary_low_lock" msgid="4009247523075328235">"បង្ហាញ​ខាងក្រោម​ការជូនដំណឹង​អាទិភាព។ បិទសំឡេង​ជានិច្ច។"</string>
+    <string name="notification_channel_summary_low_status_lock" msgid="3668028634045057230">"បង្ហាញ​ខាងក្រោម​ការជូនដំណឹង​អាទិភាព។ បិទសំឡេង​ជានិច្ច។"</string>
     <string name="notification_switch_label" msgid="8029371325967501557">"ការជូនដំណឹង​ទាំងអស់អំពី \"<xliff:g id="APP_NAME">%1$s</xliff:g>\""</string>
     <string name="notification_app_switch_label" msgid="4422902423925084193">"ការជូនដំណឹង​ទាំងអស់​របស់ <xliff:g id="APP_NAME">%1$s</xliff:g>"</string>
     <string name="default_notification_assistant" msgid="243718059890346442">"ការជូនដំណឺង​ដែល​មានភាព​បត់បែន"</string>
@@ -4957,4 +4960,6 @@
     <string name="media_controls_no_players" msgid="3493023121892175946">"មិនមាន​កម្មវិធីចាក់ទេ"</string>
     <string name="keywords_media_controls" msgid="8345490568291778638">"មេឌៀ"</string>
     <string name="connected_device_see_all_summary" msgid="2056010318537268108">"ប៊្លូធូសនឹងបើក"</string>
+    <string name="qtifeedback_settings_title">មតិតប​នៃ​ហាដវែរ</string>
+    <string name="qtifeedback_settings_subtitle">Qualcomm Technologies, Inc ការរាយការណ៍</string>
 </resources>

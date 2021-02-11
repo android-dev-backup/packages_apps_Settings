@@ -3682,6 +3682,9 @@
     <string name="notification_channel_summary_low" msgid="5549662596677692000">"Žádný zvuk ani vibrace"</string>
     <string name="notification_conversation_summary_low" msgid="6352818857388412326">"Žádný zvuk ani vibrace a zobrazovat níže v sekci konverzací"</string>
     <string name="notification_channel_summary_default" msgid="3674057458265438896">"Může vyzvánět nebo vibrovat v závislosti na nastavení telefonu"</string>
+    <string name="notification_channel_summary_low_status" msgid="7866565328564018007">"Zobrazí oznámení s nižší prioritou. Vždy tichý režim."</string>
+    <string name="notification_channel_summary_low_lock" msgid="4009247523075328235">"Zobrazí oznámení s nižší prioritou. Vždy tichý režim."</string>
+    <string name="notification_channel_summary_low_status_lock" msgid="3668028634045057230">"Zobrazí oznámení s nižší prioritou. Vždy tichý režim."</string>
     <string name="notification_channel_summary_high" msgid="3411637309360617621">"Když je zařízení odemčené, zobrazovat oznámení jako banner v horní části obrazovky"</string>
     <string name="notification_switch_label" msgid="8029371325967501557">"Všechna oznámení aplikace <xliff:g id="APP_NAME">%1$s</xliff:g>"</string>
     <string name="notification_app_switch_label" msgid="4422902423925084193">"Všechna oznámení aplikace <xliff:g id="APP_NAME">%1$s</xliff:g>"</string>
@@ -5139,4 +5142,8 @@
     <string name="media_controls_no_players" msgid="3493023121892175946">"Nejsou k dispozici žádné přehrávače"</string>
     <string name="keywords_media_controls" msgid="8345490568291778638">"média"</string>
     <string name="connected_device_see_all_summary" msgid="2056010318537268108">"Zapne se Bluetooth"</string>
+    <string name="gesture_skip_title" msgid="2092825906479683162">"Přeskočit gesto"</string>
+    <string name="gesture_silence_title" msgid="8991427657123202574">"Gesto ke ztišení upozornění"</string>
+    <string name="qtifeedback_settings_title">Informace o hardwaru</string>
+    <string name="qtifeedback_settings_subtitle">Odesílání informací společnosti Qualcomm Technologies, Inc</string>
 </resources>

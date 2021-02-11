@@ -3586,6 +3586,9 @@
     <string name="notification_channel_summary_low" msgid="5549662596677692000">"Som e vibração desativados"</string>
     <string name="notification_conversation_summary_low" msgid="6352818857388412326">"O som e a vibração estão desativados, e o balão aparece na parte inferior da seção de conversa"</string>
     <string name="notification_channel_summary_default" msgid="3674057458265438896">"Podem vibrar ou tocar com base nas configurações do smartphone"</string>
+    <string name="notification_channel_summary_low_status" msgid="7866565328564018007">"Exibida abaixo das notificações prioritárias. Sempre silenciosa."</string>
+    <string name="notification_channel_summary_low_lock" msgid="4009247523075328235">"Exibida abaixo das notificações prioritárias. Sempre silenciosa."</string>
+    <string name="notification_channel_summary_low_status_lock" msgid="3668028634045057230">"Exibida abaixo das notificações prioritárias. Sempre silenciosa."</string>
     <string name="notification_channel_summary_high" msgid="3411637309360617621">"Quando o dispositivo estiver desbloqueado, mostrar notificações em um banner no topo da tela"</string>
     <string name="notification_switch_label" msgid="8029371325967501557">"Todas as notificações de <xliff:g id="APP_NAME">%1$s</xliff:g>"</string>
     <string name="notification_app_switch_label" msgid="4422902423925084193">"Todas as notificações do app <xliff:g id="APP_NAME">%1$s</xliff:g>"</string>

@@ -3586,6 +3586,9 @@
     <string name="notification_channel_summary_low" msgid="5549662596677692000">"Дыбыс не діріл қолданылмайды"</string>
     <string name="notification_conversation_summary_low" msgid="6352818857388412326">"Дыбыс не діріл қолданылмайды, әңгімелер бөлімінің төмен жағында шығады"</string>
     <string name="notification_channel_summary_default" msgid="3674057458265438896">"Телефон параметрлеріне байланысты шылдырлауы не дірілдеуі мүмкін"</string>
+    <string name="notification_channel_summary_low_status" msgid="7866565328564018007">"Маңыздылығы төмен хабарландыруларды көрсетеді. Үнемі дыбыссыз режимде болады."</string>
+    <string name="notification_channel_summary_low_lock" msgid="4009247523075328235">"Маңыздылығы төмен хабарландыруларды көрсетеді. Үнемі дыбыссыз режимде болады."</string>
+    <string name="notification_channel_summary_low_status_lock" msgid="3668028634045057230">"Маңыздылығы төмен хабарландыруларды көрсетеді. Үнемі дыбыссыз режимде болады."</string>
     <string name="notification_channel_summary_high" msgid="3411637309360617621">"Құрылғының құлпы ашылғанда, хабарландырулар экранның жоғарғы жағында баннер ретінде көрсетіледі"</string>
     <string name="notification_switch_label" msgid="8029371325967501557">"Барлық \"<xliff:g id="APP_NAME">%1$s</xliff:g>\" хабарландырулары"</string>
     <string name="notification_app_switch_label" msgid="4422902423925084193">"Барлық <xliff:g id="APP_NAME">%1$s</xliff:g> хабарландырулары"</string>
@@ -4957,4 +4960,6 @@
     <string name="media_controls_no_players" msgid="3493023121892175946">"Ойнатқыштар жоқ"</string>
     <string name="keywords_media_controls" msgid="8345490568291778638">"мультимeдиа"</string>
     <string name="connected_device_see_all_summary" msgid="2056010318537268108">"Bluetooth қосылады."</string>
+    <string name="qtifeedback_settings_title"> Жабдыққа байланысты пікір</string>
+    <string name="qtifeedback_settings_subtitle">Qualcomm Technologies, Inc хабарламасы</string>
 </resources>
